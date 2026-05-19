@@ -38,6 +38,7 @@ To resolve these initial warnings flagged by OWASP ZAP:
 2. **Configure a Content Security Policy (CSP):** Define a robust CSP header in the Apache configuration or application source code. For example, a basic starting policy might look like:
    ```http
    Content-Security-Policy: default-src 'self'; script-src 'self' [https://trustedscripts.com](https://trustedscripts.com);
+     ```
    ![zap](pp.PNG)
 
 
