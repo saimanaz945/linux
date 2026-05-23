@@ -210,4 +210,4 @@ sudo apt install nmap
 This project is for educational and ethical hacking purposes only.
 
 Do not scan systems without permission.
-![nmap](nmapscanning.ass.png)
+![nmap](nmapscanningass.png)
